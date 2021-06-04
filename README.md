@@ -1,2 +1,2 @@
 # visualization
-visualization with python libraries
+> Repository for data visualization /w tableau, python, etc
